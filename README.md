@@ -1,4 +1,4 @@
-![Header Image](../main/assets/images/profileImage.png?raw=true)
+![Header Image](././main/assets/images/profileImage.png?raw=true)
 
 - 👋 Hi, I’m @GreyBeard42
 - 👀 I’m interested in Web Design, Machine Learning, Photography, Theater, Pixel Art & More...
