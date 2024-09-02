@@ -1,3 +1,5 @@
+![Header Image](main/profileImage.png)
+
 - 👋 Hi, I’m @GreyBeard42
 - 👀 I’m interested in Web Design, Machine Learning, Photography, Theater, Pixel Art & More...
 - 🧐 I’m currently learning everything listed above pretty much lol.
