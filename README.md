@@ -1,4 +1,4 @@
-![Header Image](GreyBeard42/main/profileImage.png)
+![Header Image](https://raw.githubusercontent.com/GreyBeard42/GreyBeard42/main/profileImage.png)
 
 - 👋 Hi, I’m @GreyBeard42
 - 👀 I’m interested in Web Design, Machine Learning, Photography, Theater, Pixel Art & More...
