@@ -12,4 +12,4 @@
 ---
 
 I moved from Replit to Codespaces. They limited your amount of repls to 3.
-(noreplit.com)[https://noreplit.com/]
+[noreplit.com](https://noreplit.com/)
