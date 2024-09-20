@@ -1,7 +1,7 @@
 ![Header Image](profileImage.png?raw=true)
 
 - 👋 Hi, I’m @GreyBeard42
-- 👀 I’m interested in Web Design, Machine Learning, Photography, Theater, Pixel Art & More...
+- 👨‍💻 I’m interested in Web Design, Machine Learning, Photography, Theater, Pixel Art & More...
 - 🧐 I’m currently learning everything listed above pretty much lol.
 - 🤓 I’m looking to collaborate on Machine Learning & Advanced Game Design (possibly...)
 - 📫 How to reach me scratch.mit.edu/users/GreyBeard42/
