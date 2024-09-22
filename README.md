@@ -7,7 +7,7 @@
 - 📫 How to reach me scratch.mit.edu/users/GreyBeard42/
 - 😄 Pronouns: he/him
 - 🤠 Fun fact: Coding since Aug 2020!
-- 👾 Homepage: greybeard42.neocities.org
+- 👾 Homepage: (greybeard42.neocities.org)[https://greybeard42.neocities.org]
 
 ---
 
