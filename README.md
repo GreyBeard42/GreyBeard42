@@ -10,5 +10,4 @@ I'm currently learning Lua for PICO-8 and Picotron.
 
 I don't actually have a Beard. Don't question it. Why would I.
 
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GreyBeard42&theme=github_dark)
 ![more stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GreyBeard42&theme=github_dark)
